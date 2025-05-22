@@ -3,7 +3,7 @@
 A Markdown-based notes app with offline support and syncing, built with React, TypeScript, Dexie.js, json-server, and Tailwind CSS.
 
 ## Setup
-1. Clone the repo: `git clone <repo-url>`
+1. Clone the repo: `git clone https://github.com/Vikramsaini26/offline-notes.git`
 2. Install dependencies: `npm install`
 3. Start mock backend: `npx json-server --watch db.json --port 3001`
 4. Start app: `npm run dev`
